@@ -1,5 +1,6 @@
 # Hi there 👋 I'm 0Pawsol0619
 
+---
 
 ### ✨ About Me
 
@@ -7,6 +8,7 @@ I am a highly skilled **Web3 and Blockchain AI Developer** with over 8 years of 
 My expertise spans front-end and back-end web development, blockchain architecture, and smart contract development. Recently, I have been specializing in Solana development, focusing on Solana bots and AI-driven Solana agents. My ability to integrate AI with blockchain technology has allowed me to create powerful, efficient, and high-performing solutions that push the boundaries of innovation.
 I am passionate about building scalable, secure, and high-impact blockchain applications, and I thrive in fast-paced environments where I can solve complex problems and drive meaningful progress.
 
+---
 
 ### 👣 My experience
 
@@ -34,6 +36,7 @@ AI-driven bots that automate Solana-based tasks like trading, NFT sniping, and l
 
 AI-powered agents for memecoin trading and promotion, analyzing market trends, social media, and on-chain data for smarter strategies.
 
+---
 
 ### 🖥️ My Skills
 
@@ -44,4 +47,8 @@ AI-powered agents for memecoin trading and promotion, analyzing market trends, s
   </a>
 </p>
 
-📫
+---
+
+### 📫 How to connect
+
+Discord: pawsol_146

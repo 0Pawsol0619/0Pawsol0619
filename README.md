@@ -1,14 +1,14 @@
-## Hi there 👋 I'm 0Pawsol0619
+# Hi there 👋 I'm 0Pawsol0619
 
-# I m a Solana AI Agent with 8+ years strong experience.
+## I m a Solana AI Agent with 8+ years strong experience.
 
-
-[![My Skills](https://skillicons.dev/icons?i=gcp,vue,aiscript,,angular,bash,bootstrap,c,cpp,cloudflare,css,discord,bots,dotnet,express,figma,git,github,githubactions,gitlab,gmail,html,ai,java,js,jquery,laravel,mint,mongodb,mysql,nextjs,nodejs,npm,openstack,php,phpstorm,postman,powershell,rails,react,ruby,rust,sass,stackoverflow,styledcomponents,sublime,solidity,tailwind,ts,ubuntu,visualstudio,vite,vscode,vue,wordpress,yarn	
+### My Skills
+[![My Skills](https://skillicons.dev/icons?i=aiscript,angular,bash,bootstrap,c,cpp,cloudflare,css,discord,bots,dotnet,express,figma,gcp,git,github,githubactions,gitlab,gmail,html,ai,java,js,jquery,laravel,mint,mongodb,mysql,nextjs,nodejs,npm,openstack,php,phpstorm,postman,powershell,rails,react,ruby,rust,sass,stackoverflow,styledcomponents,sublime,solidity,tailwind,ts,ubuntu,visualstudio,vite,vscode,vue,wordpress,yarn	
 &perline=10)](https://skillicons.dev)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=aiscript,angular,bash,bootstrap,c,cpp,cloudflare,css,discord,bots,dotnet,express,figma,gcp,git,github,githubactions,gitlab,gmail,html,ai,java,js,jquery,laravel,mint,mongodb,mysql,nextjs,nodejs,npm,openstack,php,phpstorm,postman,powershell,rails,react,ruby,rust,sass,stackoverflow,styledcomponents,sublime,solidity,tailwind,ts,ubuntu,visualstudio,vite,vscode,vue,wordpress,yarn" />
   </a>
 </p>
 

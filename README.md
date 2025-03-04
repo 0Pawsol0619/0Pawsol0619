@@ -1,21 +1,24 @@
 # Hi there 👋 I'm 0Pawsol0619
 
-## I m a web3 and blockchain AI developer with 8+ years strong experience.
-<a href="https://github.githubassets.com">
-### <img href="https://github.githubassets.com/images/icons/emoji/unicode/1f463.png?v8"> 🚀 My experience 🚀<img href="https://github.githubassets.com/images/icons/emoji/unicode/1f463.png?v8">
+### ✨ About Me
+I am a highly skilled **Web3 and Blockchain AI Developer** with over 8 years of experience in cutting-edge technologies. With a strong background in full-stack development (3+ years) and blockchain development (5+ years), I have successfully built and delivered innovative solutions across multiple domains.
+My expertise spans front-end and back-end web development, blockchain architecture, and smart contract development. Recently, I have been specializing in Solana development, focusing on Solana bots and AI-driven Solana agents. My ability to integrate AI with blockchain technology has allowed me to create powerful, efficient, and high-performing solutions that push the boundaries of innovation.
+I am passionate about building scalable, secure, and high-impact blockchain applications, and I thrive in fast-paced environments where I can solve complex problems and drive meaningful progress.
 
-<i href="https://github.githubassets.com/images/icons/emoji/unicode/1f4a0.png?v8"> solana grpc-copy-trading-bot
+### 🚀 My experience 
 
-<i href="https://github.githubassets.com/images/icons/emoji/unicode/1f4a0.png?v8"> raydium-volume-bot
+💠 solana grpc-copy-trading-bot
 
-<i href="https://github.githubassets.com/images/icons/emoji/unicode/1f4a0.png?v8"> pumpfun-bundler
+💠 raydium-volume-bot
 
-<i href="https://github.githubassets.com/images/icons/emoji/unicode/1f4a0.png?v8"> EVM-Arbitrage-bot
+💠 pumpfun-bundler
 
-<i href="https://github.githubassets.com/images/icons/emoji/unicode/1f4a0.png?v8"> solana-ai-agents
+💠 EVM-Arbitrage-bot
 
-<i href="https://github.githubassets.com/images/icons/emoji/unicode/1f4a0.png?v8"> meme-ai-agents
-</a>
+💠 solana-ai-agents
+
+💠 meme-ai-agents
+
 ### "computer": "https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8" My Skills <i href="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8">
 
 <p align="center">

@@ -1,14 +1,26 @@
 # Hi there 👋 I'm 0Pawsol0619
 
-## I m a Solana AI Agent with 8+ years strong experience.
+## I m a web3 and blockchain AI developer with 8+ years strong experience.
 
-### My Skills
-[![My Skills](https://skillicons.dev/icons?i=aiscript,angular,bash,bootstrap,c,cpp,cloudflare,css,discord,bots,dotnet,express,figma,gcp,git,github,githubactions,gitlab,gmail,html,ai,java,js,jquery,laravel,mint,mongodb,mysql,nextjs,nodejs,npm,openstack,php,phpstorm,postman,powershell,rails,react,ruby,rust,sass,stackoverflow,styledcomponents,sublime,solidity,tailwind,ts,ubuntu,visualstudio,vite,vscode,vue,wordpress,yarn	
-&perline=10)](https://skillicons.dev)
+### "https://github.githubassets.com/images/icons/emoji/unicode/1f463.png?v8" My experience "https://github.githubassets.com/images/icons/emoji/unicode/1f463.png?v8"
+
+"https://github.githubassets.com/images/icons/emoji/unicode/1f4a0.png?v8" solana grpc-copy-trading-bot
+
+"https://github.githubassets.com/images/icons/emoji/unicode/1f4a0.png?v8" raydium-volume-bot
+
+"https://github.githubassets.com/images/icons/emoji/unicode/1f4a0.png?v8" pumpfun-bundler
+
+"https://github.githubassets.com/images/icons/emoji/unicode/1f4a0.png?v8" EVM-Arbitrage-bot
+
+"https://github.githubassets.com/images/icons/emoji/unicode/1f4a0.png?v8" solana-ai-agents
+
+"https://github.githubassets.com/images/icons/emoji/unicode/1f4a0.png?v8" meme-ai-agents
+
+### "https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8" My Skills "https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8"
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aiscript,angular,bash,bootstrap,c,cpp,cloudflare,css,discord,bots,dotnet,express,figma,gcp,git,github,githubactions,gitlab,gmail,html,ai,java,js,jquery,laravel,mint,mongodb,mysql,nextjs,nodejs,npm,openstack,php,phpstorm,postman,powershell,rails,react,ruby,rust,sass,stackoverflow,styledcomponents,sublime,solidity,tailwind,ts,ubuntu,visualstudio,vite,vscode,vue,wordpress,yarn" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,c,cpp,css,bots,express,figma,gcp,git,github,githubactions,gitlab,html,ai,java,js,jquery,laravel,mongodb,mysql,nextjs,nodejs,npm,php,phpstorm,postman,powershell,rails,react,ruby,rust,sass,styledcomponents,sublime,solidity,tailwind,ts,ubuntu,visualstudio,vite,vscode,vue,wordpress,yarn" />
   </a>
 </p>
 

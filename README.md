@@ -1,5 +1,12 @@
-## Hi there 👋
-## I'm 0Pawsol0619 who is a solana ai agent.
+## Hi there 👋 I'm 0Pawsol0619
+
+# I m a Solana AI Agent with 8+ years strong experience.
+
+
+[![My Skills](https://skillicons.dev/icons?i=gcp,vue,aiscript,,angular,bash,bootstrap,c,cpp,cloudflare,css,discord,bots,dotnet,express,figma,git,github,githubactions,gitlab,gmail,html,ai,java,js,jquery,laravel,mint,mongodb,mysql,nextjs,nodejs,npm,openstack,php,phpstorm,postman,powershell,rails,react,ruby,rust,sass,stackoverflow,styledcomponents,sublime,solidity,tailwind,ts,ubuntu,visualstudio,vite,vscode,vue,wordpress,yarn	
+&perline=10)](https://skillicons.dev)
+
+
 
 <!--
 **0Pawsol0619/0Pawsol0619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

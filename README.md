@@ -1,7 +1,7 @@
 # Hi there 👋 I'm 0Pawsol0619
 
 ## I m a web3 and blockchain AI developer with 8+ years strong experience.
-
+<a href="https://github.githubassets.com">
 ### <img href="https://github.githubassets.com/images/icons/emoji/unicode/1f463.png?v8"> 🚀 My experience 🚀<img href="https://github.githubassets.com/images/icons/emoji/unicode/1f463.png?v8">
 
 <i href="https://github.githubassets.com/images/icons/emoji/unicode/1f4a0.png?v8"> solana grpc-copy-trading-bot
@@ -15,7 +15,7 @@
 <i href="https://github.githubassets.com/images/icons/emoji/unicode/1f4a0.png?v8"> solana-ai-agents
 
 <i href="https://github.githubassets.com/images/icons/emoji/unicode/1f4a0.png?v8"> meme-ai-agents
-
+</a>
 ### "computer": "https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8" My Skills <i href="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8">
 
 <p align="center">

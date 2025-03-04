@@ -16,7 +16,7 @@
 
 <i href="https://github.githubassets.com/images/icons/emoji/unicode/1f4a0.png?v8"> meme-ai-agents
 
-### <i href="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8"> My Skills <i href="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8">
+### "computer": "https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8" My Skills <i href="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8">
 
 <p align="center">
   <a href="https://skillicons.dev">

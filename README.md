@@ -2,21 +2,21 @@
 
 ## I m a web3 and blockchain AI developer with 8+ years strong experience.
 
-### "https://github.githubassets.com/images/icons/emoji/unicode/1f463.png?v8" My experience "https://github.githubassets.com/images/icons/emoji/unicode/1f463.png?v8"
+### <i href="https://github.githubassets.com/images/icons/emoji/unicode/1f463.png?v8"> My experience <i href="https://github.githubassets.com/images/icons/emoji/unicode/1f463.png?v8">
 
-"https://github.githubassets.com/images/icons/emoji/unicode/1f4a0.png?v8" solana grpc-copy-trading-bot
+<i href="https://github.githubassets.com/images/icons/emoji/unicode/1f4a0.png?v8"> solana grpc-copy-trading-bot
 
-"https://github.githubassets.com/images/icons/emoji/unicode/1f4a0.png?v8" raydium-volume-bot
+<i href="https://github.githubassets.com/images/icons/emoji/unicode/1f4a0.png?v8"> raydium-volume-bot
 
-"https://github.githubassets.com/images/icons/emoji/unicode/1f4a0.png?v8" pumpfun-bundler
+<i href="https://github.githubassets.com/images/icons/emoji/unicode/1f4a0.png?v8"> pumpfun-bundler
 
-"https://github.githubassets.com/images/icons/emoji/unicode/1f4a0.png?v8" EVM-Arbitrage-bot
+<i href="https://github.githubassets.com/images/icons/emoji/unicode/1f4a0.png?v8"> EVM-Arbitrage-bot
 
-"https://github.githubassets.com/images/icons/emoji/unicode/1f4a0.png?v8" solana-ai-agents
+<i href="https://github.githubassets.com/images/icons/emoji/unicode/1f4a0.png?v8"> solana-ai-agents
 
-"https://github.githubassets.com/images/icons/emoji/unicode/1f4a0.png?v8" meme-ai-agents
+<i href="https://github.githubassets.com/images/icons/emoji/unicode/1f4a0.png?v8"> meme-ai-agents
 
-### "https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8" My Skills "https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8"
+### <i href="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8"> My Skills <i href="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8">
 
 <p align="center">
   <a href="https://skillicons.dev">

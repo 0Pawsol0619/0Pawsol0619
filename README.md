@@ -2,7 +2,7 @@
 
 ## I m a web3 and blockchain AI developer with 8+ years strong experience.
 
-### <i href="https://github.githubassets.com/images/icons/emoji/unicode/1f463.png?v8"> My experience <i href="https://github.githubassets.com/images/icons/emoji/unicode/1f463.png?v8">
+### <img href="https://github.githubassets.com/images/icons/emoji/unicode/1f463.png?v8"> 🚀 My experience 🚀<img href="https://github.githubassets.com/images/icons/emoji/unicode/1f463.png?v8">
 
 <i href="https://github.githubassets.com/images/icons/emoji/unicode/1f4a0.png?v8"> solana grpc-copy-trading-bot
 

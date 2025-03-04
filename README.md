@@ -1,4 +1,5 @@
 ## Hi there 👋
+## I'm 0Pawsol0619 who is a solana ai agent.
 
 <!--
 **0Pawsol0619/0Pawsol0619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
